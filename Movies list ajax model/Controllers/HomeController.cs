@@ -10,7 +10,7 @@ namespace Movies_list_ajax_model.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View(); //hiiii
         }
 
         public ActionResult About()
