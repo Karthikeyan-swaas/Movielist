@@ -48,4 +48,5 @@ namespace Movies_list_ajax_model.Controllers
             return Json(movDb.Delete(ID), JsonRequestBehavior.AllowGet);
         }
     }//hi karthik//
+    // bye//
 }
